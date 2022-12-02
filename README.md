@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!-- LinkedIn-->
-<a href="www.linkedin.com/in/aquemy/">
+<a href="https://www.linkedin.com/in/aquemy/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin" />
 </a>
 <!-- Twitter-->

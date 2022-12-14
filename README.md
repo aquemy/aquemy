@@ -38,7 +38,7 @@
 
 I'm YData's Data Science Tech Lead.
 
-[![](https://github-readme-stats.vercel.app/api?username=aquemy&count_private=true&show_icons=true&theme=onedark)](https://github.com/portellaa)
+[![](https://github-readme-stats.vercel.app/api?username=aquemy&count_private=true&show_icons=true&theme=onedark)](https://github.com/aquemy )
 
 Feel free to get in touch! You can reach us at [Hello](hello@ydata.ai) or [Developers](developers@ydata.ai) or join us at our [Discord Server](https://discord.gg/mw7xjJ7b7s)
 
